@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tipos-de-cuerpo",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tipos-de-cuerpo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tipos-de-cuerpo.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/tipos-de-cuerpo/"
+    },
+    "homepage": "https://isproto.com/tipos-de-cuerpo/"
+}
